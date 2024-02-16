@@ -1,0 +1,10 @@
+bin/
+etc/
+include/
+lib/
+lib64/
+share/
+.env
+pyvenv.cfg
+*.json
+
